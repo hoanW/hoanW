@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Hoan</h1>
+<h1 align="center">👋, I'm Hoan</h1>
 - 📫 How to reach me **hoanviet.vu@gmail.com**
 
 <p align="left">
